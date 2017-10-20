@@ -1,8 +1,9 @@
-The Mojaloop code is made available by the Bill & Melinda Gates Foundation under the Apache 2.0 license
-http://www.apache.org/licenses/LICENSE-2.0.  Unless required by applicable law, the Mojaloop code is 
-distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-The Mojaloop code references Open Source code and software modules licensed under the following 
-Open Source licenses: AFLv2.1; Apache; Apache 2.0; BSD; BSD-2-clause; BSD-3-clause; CPAL 1.0; CDDL; CDDL v1.1; 
-Eclipse Public License; GPL; GPLv2; ISC; LGPL; MIT; MIT/X11; MPL; Public Domain; Unlicense; WTFPL. 
-There are some referenced modules for which the license status is not known.
+The Mojaloop code is made available by the Bill & Melinda Gates Foundation under the Apache 2.0 license 
+http://www.apache.org/licenses/LICENSE-2.0.  Unless required by applicable law, the Mojaloop code is distributed on an "AS IS" BASIS, 
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+The Mojaloop code references Open Source code and software modules licensed under the following Open Source licenses: AFLv2.1; Apache; 
+Apache 2.0; BSD; BSD-2-clause; BSD-3-clause; CPAL 1.0; CDDL; CDDL v1.1; Eclipse Public License; GPL; GPLv2; ISC; LGPL; MIT; MIT/X11; 
+MPL; Public Domain; Unlicense; WTFPL. There are some referenced modules for which the license status is not known.
+
 © 2017 Bill & Melinda Gates Foundation
